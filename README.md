@@ -1,6 +1,8 @@
-# Hello, I'm MASHFIQUR RAHMAN 👋
+# Hi there! 👋 I'm Mashfiqur Rahman
 
-### A Full Stack Software Engineer⚙️
+## 👨‍💻 Full Stack Developer | Backend Specialist | 4+ Years of Experience
+
+Welcome to my GitHub profile! I'm passionate about building robust and scalable web applications. I specialize in backend development but also love diving into frontend technologies. Below, you'll find some of my key skills and the technologies I enjoy working with:
 
 ## 📈 Let's Connect
 
@@ -74,10 +76,10 @@
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mashfiqur&show_icons=true&theme=dark)
 
 ## 🌟 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mashfiqur&layout=compact&theme=dark)
 
 
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or have any questions. Happy coding! 🚀
