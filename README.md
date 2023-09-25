@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about building robust and scalable 
 
 **About me**
 
-- 🎓 _Freelance_ Software Engineer
+- 🎓 Software Engineer
 - 👷 Backend Specialist
 - 🚀 Remote Developer
 
@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm passionate about building robust and scalable 
 
 - 🎒 Team leader
 - 👴 Software Developer
-- 💡 Consultant (Development / Productivity, Quality, Scaling, Delivery)
 
 ### My favourite stack ❤️
 
@@ -58,15 +57,10 @@ Welcome to my GitHub profile! I'm passionate about building robust and scalable 
 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
-**Styling**
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
 **Hosting & CI**
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Namecheap](https://img.shields.io/badge/Namecheap-DE354C?style=for-the-badge&logo=namecheap&logoColor=white)
 
 **Testing**
 
