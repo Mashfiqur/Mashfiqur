@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mashfiqur Rahman
 
-### 👨‍💻 Full Stack Developer | Backend Specialist | 5+ Years of Experience
+### 👨‍💻 Full Stack Developer | Backend Specialist | 6+ Years of Experience
 
 Welcome to my GitHub profile! I'm passionate about building robust and scalable web applications. I specialize in backend development but also love diving into frontend technologies. Below, you'll find some of my key skills and the technologies I enjoy working with:
 
